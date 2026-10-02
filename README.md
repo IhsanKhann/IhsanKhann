@@ -1,4 +1,4 @@
-# Ihsan Khan
+# Muhammad Ihsan Khan
 
 CS undergraduate at IMSciences, Peshawar. I build platforms and the agents that operate them.
 
