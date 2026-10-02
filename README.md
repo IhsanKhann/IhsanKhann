@@ -52,4 +52,6 @@ silently re-prices every write, with no code or config diff to show it.
 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IhsanKhann&layout=compact&hide=html,css,scss,blade,hack&exclude_repo=LMS,mern-stack,React-Projects,Express-Backend,backend-mega-project,30-Days-of-python,HIC-ProjectsAndNotes,CRS,LoneWolfGame,Daa-Project&hide_border=true&theme=graywhite&card_width=340" alt="Top languages" />
 
-📫 **[your.email@example.com]**
+### 📫 Reach me
+
+[**designwithIhsan@gmail.com**](mailto:designwithIhsan@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/ihsann-khan/)
