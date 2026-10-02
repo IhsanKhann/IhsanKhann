@@ -44,6 +44,12 @@ silently re-prices every write, with no code or config diff to show it.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IhsanKhann&layout=compact&hide=html,css,scss,blade,hack&exclude_repo=LMS,mern-stack,React-Projects,Express-Backend,backend-mega-project,30-Days-of-python,HIC-ProjectsAndNotes,CRS&hide_border=true&theme=graywhite&card_width=330" alt="Top languages" />
+<!--
+  Language card excludes coursework repos, and LoneWolfGame/Daa-Project because they
+  vendor ImGui and GLFW — ~1.5MB of C++ nobody here wrote, which otherwise takes 62%
+  of the card and misreports the work. Excluded from the measurement, not the profile:
+  LoneWolfGame stays pinned.
+-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IhsanKhann&layout=compact&hide=html,css,scss,blade,hack&exclude_repo=LMS,mern-stack,React-Projects,Express-Backend,backend-mega-project,30-Days-of-python,HIC-ProjectsAndNotes,CRS,LoneWolfGame,Daa-Project&hide_border=true&theme=graywhite&card_width=340" alt="Top languages" />
 
 📫 **[your.email@example.com]**
