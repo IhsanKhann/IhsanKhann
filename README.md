@@ -2,8 +2,10 @@
 
 **CS undergraduate at IMSciences, Peshawar — I build platforms and the agents that operate them.**
 
+### → **[ihsankhann.github.io](https://ihsankhann.github.io)** — five case studies, each with the trade-off stated
+
 🥈 2nd place, **AtomCamp Agentic AI Hackathon** · national round in progress
-📍 Peshawar, Pakistan · open to remote
+📍 Peshawar, Pakistan · open to remote · [designwithIhsan@gmail.com](mailto:designwithIhsan@gmail.com)
 
 <img src="https://skillicons.dev/icons?i=python,ts,nodejs,php,cpp,fastapi,express,laravel,mongodb,postgres,redis,docker&theme=dark" alt="Python, TypeScript, Node, PHP, C++, FastAPI, Express, Laravel, MongoDB, PostgreSQL, Redis, Docker" />
 
